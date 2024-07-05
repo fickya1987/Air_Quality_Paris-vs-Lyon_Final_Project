@@ -17,10 +17,10 @@ from PIL import Image
 
 
 #### loading data files
-paris = pd.read_csv("08_streamlit/data/Paris_for_EDA.csv")
-lyon = pd.read_csv("08_streamlit/data/Lyon_for_EDA.csv")
-lyon_2 = pd.read_csv("08_streamlit/data/sec2_Lyon.csv")
-paris_2 = pd.read_csv("08_streamlit/data/sec2_Paris.csv")
+paris = pd.read_csv("08_Streamlit/data/Paris_for_EDA.csv")
+lyon = pd.read_csv("08_Streamlit/data/Lyon_for_EDA.csv")
+lyon_2 = pd.read_csv("08_Streamlit/data/sec2_Lyon.csv")
+paris_2 = pd.read_csv("08_Streamlit/data/sec2_Paris.csv")
 
 
 #### Setting the layout of the page
